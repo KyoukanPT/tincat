@@ -1,4 +1,4 @@
-<h2>Tincat</h2>
+<h2>TinCat</h2>
 
 This page was created as the Homepage for a Tinder-like app, but for cats. 
 
