@@ -1,7 +1,7 @@
 <h2>TinCat</h2>
 
-This page was created as the Homepage for a Tinder-like app, but for cats. 
+<p>This page was created as the Homepage for a Tinder-like app, but for cats. </p>
 
-Cats also deserve to find love 😊.
+<p> Cats also deserve to find love 😊. </p>
 
-Live page --> https://kyoukanpt.github.io/tincat/
+<p>Live page --> https://kyoukanpt.github.io/tincat/</p>
